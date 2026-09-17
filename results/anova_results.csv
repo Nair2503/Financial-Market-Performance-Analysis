@@ -1,0 +1,2 @@
+Test,F_Statistic,P_Value,Significance_Level,Conclusion
+One-Way ANOVA - Daily Returns Across 10 Indices,0.7638,0.650197,0.05,No statistically significant difference detected among mean daily returns

@@ -1,0 +1,11 @@
+Analysis,Finding
+Highest Average Annual Return,NIFTY IT
+Lowest Average Annual Return,NIFTY Metal
+Highest Annualized Volatility,NIFTY IT
+Lowest Annualized Volatility,NIFTY Pharma
+Largest Maximum Drawdown,NIFTY Next 50
+Least Severe Maximum Drawdown,NIFTY FMCG
+Strongest Index Correlation,NIFTY Midcap 100 and NIFTY Next 50 (0.940)
+NIFTY 50 vs India VIX,Weak negative correlation (-0.097)
+NIFTY 50 vs Gold,Weak negative correlation (-0.084)
+ANOVA Across Indices,No statistically significant difference in mean daily returns (p = 0.6502)
